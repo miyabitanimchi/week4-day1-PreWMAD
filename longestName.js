@@ -1,6 +1,11 @@
 // write a function that returns the longest name {first and last} in the given array of objects
 
 const LongestName = function(instructors) {
+　let addFirstnLast = 0;
+
+for (i = 0; i < instructors.length; i++)
+instructors[i] += 
+
   // Put your solution here
 };
 
