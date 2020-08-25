@@ -4,7 +4,7 @@ const LongestName = function(instructors) {
 　let addFirstnLast = 0;
 
 for (i = 0; i < instructors.length; i++)
-instructors[i] += 
+instructors[i] +=  
 
   // Put your solution here
 };

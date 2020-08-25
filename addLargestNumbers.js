@@ -12,7 +12,6 @@ const addLargestNumbers = function(data) {
     }
     // console.log(larNum, secLarNum);
   }
-
   
   return larNum + secLarNum
 
