@@ -2,7 +2,7 @@
 
 const conditionalAdding = function(values, condition) {
   let sum = 0;
-  for (let i = 0; len = values.length; i < len; i++) {
+  for (let i = 0; len = values.length; i++) {
     sum += values[i];
 
     if (values[i] % 2 === 0 )
@@ -17,6 +17,7 @@ const conditionalAdding = function(values, condition) {
     
   };
   
+//It makes an infinite loop...
 
   
   // Your code here
